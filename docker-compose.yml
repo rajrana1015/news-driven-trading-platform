@@ -19,4 +19,3 @@ services:
       - ./plugins:/opt/airflow/plugins
     depends_on:
       - airflow-scheduler
- 
